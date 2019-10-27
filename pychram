@@ -1,0 +1,57 @@
+## langkah-langkah pychram
+
+1. buka pychram
+2. pillih new project
+3. setelah munjul projet kosong baru,buat file phyton baru 
+4. masukan kode seperti di bawah
+
+- a=input("masukan nilai a:")
+- b=input("masukan nilai b:")
+- print("variable a= ,a")
+- print("hasil pengabungan {0}&{1}=%a" .format(a,b) %(s+b))
+
+## konversi nilai variable 
+
+- a=int(a) - b=int(b) 
+- print("hasil penjumlahan {0}+{1}=%d" .format(a,b) %(a+b))
+- print("hasil pembagian {0}+{1}=%a" .format(a,b) %(a+b))
+- print("hallo")
+
+5. run kode tersebut 
+
+- hasilnya akan muncul wseperti ini masukan nilai a:60
+- masukan nilai b:5
+- variable a= ,a
+- variable b= ,b
+- hasil pengabungan 60&5='605'
+- hasil pembagian 60/5=12.0
+- hallo
+- proces finished with exit code 0
+
+
+## insatall git 
+buka wabste dan download installer git untuk windows 
+setelah download,buka file tersebut untuk menjalankan proses instalasi.ikuti semua instruksi,klik NEXT dan Finish hingga semua proses installasi selesai
+## jalankan perintah di terminal
+git config --global user.name "pebipramugi"
+git config --global user.email "pramugi41@gmail.com"
+## membuat/mengatur/mengambil repositiry
+repositori adalah asset yang paling kuat dari semua project versioning
+## alur kerja 
+setelah repository selesai dibuat,kita akan membahas tentang seteruktur pada git.
+##perintah add dan commit
+perubahan yang di jalankan atau file tambahankan ke index dengan menggunakan perintah add. untuk menambahkan file.
+git add (file_name)
+# mengirim perubahan 
+setelah anda commit perubahan (dan sudah yakin di kirim ke repository asli) ada bisa menggunakan  perintah push.setelah git push origin master di jalankan dari rektori kerja.perubahan yang ada di head akan di kirim ke remote repository
+## branches 
+adalah kemampuanya unntuk memungkinkan develover dan project meneger membuat branch membuat fitur namun tetap mengisolasinya dari yang lain.
+## kesimpulan 
+kenyataan dalam pembuatan sofware adlah akan sangat nyaman bila memenejemen kode di sediakan untuk anda.tutorial dasar git ini wajib di ketahui dan di kuasai oleh semua develover, karena akan sanggat membantu dalam melakukan version control.jika anda inggin.
+## git hub
+adalah layanan penginangan wab bersama untuk pryek pengembangan
+perangkat lunak yang mengunakan sistem pengontrol versi git dan pelayanan hosting internet. 
+hal ini banyak di gunakan untuk kode komputer.ini memberikan kontrol aksess dan berapa fitur bug,permintaan fitur,menejemen tugas
+
+
+- proces finished with exit code 0 
